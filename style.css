@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 5px;
+}
+
+h2{
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.Name-highlight{
+    color: #ffa500;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+img{
+    width: 80%;
+    margin-left: 10%;
+}
