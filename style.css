@@ -21,7 +21,7 @@ h2{
     margin-bottom: 5px;
 }
 
-.Name-highlight{
+.orange-highlight{
     color: #ffa500;
 }
 
@@ -86,5 +86,30 @@ p{
       background-image: url(Images/dream-bg.png);
       background-repeat: no-repeat;
       background-position: right;
+      padding-bottom: 50px;
       
   }
+
+  .experience-area{
+    height: 500px;
+    background-image: url(Images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+  }
+.experience{
+    font-size: 40px;
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 70%;
+
+}
+#full-stack{
+    border-left: 7px solid tomato;
+}
+
+#baby{
+    border-left: 7px solid blue
+}
