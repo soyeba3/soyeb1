@@ -80,3 +80,11 @@ p{
   .become{
     color: #ffa500;
   }
+
+  .dream-area{
+      height: 500px;
+      background-image: url(Images/dream-bg.png);
+      background-repeat: no-repeat;
+      background-position: right;
+      
+  }
