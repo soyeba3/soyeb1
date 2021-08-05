@@ -8,7 +8,7 @@ body{
     height: 500px;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    padding-bottom: 150px;
+    padding-bottom: 120px;
 }
 
 h1{
@@ -23,6 +23,10 @@ h2{
 
 .Name-highlight{
     color: #ffa500;
+}
+
+p{
+    color: dimgray;
 }
 
 .half-width{
